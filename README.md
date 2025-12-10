@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-<p>👨‍💻 Site Reliability at <a href="https://www.clouddog.com.br/" target="blank_">CloudDog</a></p>
+<p>👨‍💻 Site Reliability Engineer at <a href="https://www.clouddog.com.br/" target="blank_">CloudDog</a></p>
 <p>🎓 Formado em Análise e Desenvolvimento de Sistemas na <a href="https://www.umc.br/graduacao-tecnologica-analise-e-desenvolvimento-de-sistemas/" target="blank_">Universidade de Mogi das Cruzes</a></p>
 
 ## Certificações
