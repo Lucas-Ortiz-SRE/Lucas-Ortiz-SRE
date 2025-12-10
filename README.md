@@ -1,5 +1,5 @@
 ## Olá pessoal, sejam bem vindos ao meu perfil do Github!
-- Meu nome é Lucas Ortiz! Sou Site Reliability Engineer especialista em nuvem AWS!
+- Meu nome é Lucas Ortiz! Sou Site Reliability Engineer especialista em infraestrutura em nuvem!
 
 ## Sobre mim
 
